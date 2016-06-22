@@ -1,0 +1,60 @@
+
+@media (max-width: 950px) {
+	nav{
+		form {
+			display: flex;
+			justify-content: flex-end;
+		}
+
+		input#search-query-nav {
+			width: 30%;
+		}
+
+		select#search-country-nav {
+			width: 30%;
+		}
+	}
+
+}
+
+
+@media (max-width: 810px) {
+	input#submit{
+		display: none;
+	}
+
+	button.search-icon {
+		display: block;
+	}
+
+	nav {
+		button.search-icon {
+			background: $lightgold;
+			font-size: 1.5rem;
+		}
+	}
+	header {
+		h1 {
+			font-size: 5rem;
+		}
+
+		h2{
+			font-size: 2rem;
+		}
+	}
+}
+
+
+@media (max-width: 500px){
+	header {
+		h1 {
+			font-size: 4rem;
+		}
+
+		h2{
+			font-size: 1.8rem;
+		}
+	}
+}
+
+

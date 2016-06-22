@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+*node_modules
+=======
+node_modules/
+>>>>>>> 442d03cc09f7f29e66ea6bd2185fec4f24c742e5
+public/styles/*.css

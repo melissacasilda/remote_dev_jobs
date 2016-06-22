@@ -1,0 +1,25 @@
+{
+  "name": "week6project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissacasilda/week6project.git"
+  },
+  "author": "Melissa Gonsalves,Erin MacMillan, Sarah Dinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissacasilda/week6project/issues"
+  },
+  "homepage": "https://github.com/melissacasilda/week6project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.1"
+  }
+}
